@@ -96,6 +96,10 @@ pnpm i lowlight @tiptap/extension-code-block-lowlight highlight.js
 pnpm i @tiptap/extension-bubble-menu
 ```
 
+```bash
+pnpm i @tiptap/extension-floating-menu
+```
+
 ## Install react-icons
 
 ```bash
